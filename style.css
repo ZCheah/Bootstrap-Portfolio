@@ -7,6 +7,14 @@ footer {
     margin-top: 50px;
 } 
 .container-fluid { 
-    margin-left: 60px;
+    margin-left: 100px;
+    padding-top: 50%;
 }
 
+.row-g-0 {
+    margin-left: 40%;
+}
+
+.skills-heading {
+    margin-left: 10%;
+}
